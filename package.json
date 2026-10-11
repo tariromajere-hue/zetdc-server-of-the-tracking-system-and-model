@@ -1,0 +1,8 @@
+{
+  "name": "smart-meter-daily-digest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sends the Smart Meter Programme daily summary to the manager by email and WhatsApp every morning.",
+  "engines": { "node": ">=18" },
+  "dependencies": { "nodemailer": "^6.9.14" }
+}
